@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/51nbVEuw1HL._AC_SL1000_.jpg",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given the task of planting an idea into a CEO's mind.",
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"]
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Adventure",
+    "rating": 8.6,
+    "poster": "https://m.media-amazon.com/images/I/81k8gFvQ+CL._AC_SL1500_.jpg",
+    "description": "A team of explorers travel through a wormhole in space to ensure humanity's survival.",
+    "director": "Christopher Nolan",
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "title": "Joker",
+    "genre": "Crime",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/I/71oXq6JxwLL._AC_SL1500_.jpg",
+    "description": "A mentally troubled comedian embarks on a downward spiral that leads to the creation of the Joker.",
+    "director": "Todd Phillips",
+    "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "rating": 9.0,
+    "poster": "https://m.media-amazon.com/images/I/51k0qa+Xz1L._AC_.jpg",
+    "description": "Batman sets out to dismantle the remaining criminal organizations that plague Gotham, while facing the Joker.",
+    "director": "Christopher Nolan",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genre": "Action",
+    "rating": 8.4,
+    "poster": "https://m.media-amazon.com/images/I/81ExhpBEbHL._AC_SL1500_.jpg",
+    "description": "After the devastating events of Infinity War, the Avengers assemble once more to undo Thanos' actions.",
+    "director": "Anthony Russo, Joe Russo",
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "rating": 9.3,
+    "poster": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of decency.",
+    "director": "Frank Darabont",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "rating": 8.9,
+    "poster": "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SL1181_.jpg",
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "director": "Quentin Tarantino",
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]
+  },
+  {
+    "title": "Fight Club",
+    "genre": "Drama",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club.",
+    "director": "David Fincher",
+    "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"]
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "rating": 8.8,
+    "poster": "https://m.media-amazon.com/images/I/41c5l1Jf4mL._AC_.jpg",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and other history unfold through the perspective of an Alabama man with a low IQ.",
+    "director": "Robert Zemeckis",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+  },
+  {
+    "title": "The Matrix",
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "poster": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+    "description": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+  },
+  {
+    "title": "Gladiator",
+    "genre": "Action",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/I/51AqGZ1q2ML._AC_.jpg",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family.",
+    "director": "Ridley Scott",
+    "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+  },
+  {
+    "title": "The Lion King",
+    "genre": "Animation",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/I/51P4i2xqH2L._AC_.jpg",
+    "description": "Lion prince Simba struggles to accept the responsibilities of adulthood and his destined role as king.",
+    "director": "Roger Allers, Rob Minkoff",
+    "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]
+  },
+  {
+    "title": "Titanic",
+    "genre": "Romance",
+    "rating": 7.8,
+    "poster": "https://m.media-amazon.com/images/I/51C9Rqu5nDL._AC_.jpg",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious Titanic.",
+    "director": "James Cameron",
+    "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+  },
+  {
+    "title": "The Godfather",
+    "genre": "Crime",
+    "rating": 9.2,
+    "poster": "https://m.media-amazon.com/images/I/51rOnIjLqzL._AC_.jpg",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "director": "Francis Ford Coppola",
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan"]
+  },
+  {
+    "title": "The Avengers",
+    "genre": "Action",
+    "rating": 8.0,
+    "poster": "https://m.media-amazon.com/images/I/71niXI3lxlL._AC_SL1024_.jpg",
+    "description": "Earth's mightiest heroes must come together to stop Loki and his alien army from enslaving humanity.",
+    "director": "Joss Whedon",
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"]
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "genre": "Action",
+    "rating": 8.5,
+    "poster": "https://m.media-amazon.com/images/I/91Rkcc8SxSL._AC_SL1500_.jpg",
+    "description": "Peter Parker's identity is revealed, and he seeks help from Doctor Strange to undo the damage.",
+    "director": "Jon Watts",
+    "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"]
+  },
+  {
+    "title": "Avatar",
+    "genre": "Sci-Fi",
+    "rating": 7.8,
+    "poster": "https://m.media-amazon.com/images/I/51t4HcIL-GL._AC_.jpg",
+    "description": "A paraplegic Marine is dispatched to the moon Pandora on a unique mission, where he falls in love with a native Na'vi woman.",
+    "director": "James Cameron",
+    "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]
+  },
+  {
+    "title": "Deadpool",
+    "genre": "Action",
+    "rating": 8.0,
+    "poster": "https://m.media-amazon.com/images/I/51o6F3ZyW+L._AC_.jpg",
+    "description": "A fast-talking mercenary with a morbid sense of humor becomes the antihero Deadpool.",
+    "director": "Tim Miller",
+    "cast": ["Ryan Reynolds", "Morena Baccarin", "T.J. Miller"]
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "genre": "Sci-Fi",
+    "rating": 8.0,
+    "poster": "https://m.media-amazon.com/images/I/81nOaE0PWlL._AC_SL1500_.jpg",
+    "description": "A group of intergalactic criminals must work together to stop a fanatical warrior from taking control of the universe.",
+    "director": "James Gunn",
+    "cast": ["Chris Pratt", "Zoe Saldana", "Dave Bautista"]
+  },
+  {
+    "title": "Black Panther",
+    "genre": "Action",
+    "rating": 7.3,
+    "poster": "https://m.media-amazon.com/images/I/81kz7VjK7JL._AC_SL1500_.jpg",
+    "description": "T'Challa, the king of Wakanda, rises to the throne and faces challenges from a powerful enemy.",
+    "director": "Ryan Coogler",
+    "cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"]
+  }
+]
